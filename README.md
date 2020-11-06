@@ -11,5 +11,5 @@ This project was created with:
 * Python 3.6
 * Jupyter Notebook
 * Quandl API
-* pandas: v.1.1.
+* pandas: v.1.1.0
 * sklearn
